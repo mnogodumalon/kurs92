@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Create design_brief.md for Kursverwaltungssystem",
+    "status": "completed",
+    "activeForm": "Creating design brief"
+  },
+  {
+    "content": "Build UI with mock data (design system, components)",
+    "status": "completed",
+    "activeForm": "Building UI with mock data"
+  },
+  {
+    "content": "Create LivingApps backend (5 apps)",
+    "status": "completed",
+    "activeForm": "Creating LivingApps backend"
+  },
+  {
+    "content": "Generate TypeScript types and API service",
+    "status": "completed",
+    "activeForm": "Generating TypeScript types"
+  },
+  {
+    "content": "Wire up real API calls, replace all mock data",
+    "status": "completed",
+    "activeForm": "Wiring up real API calls"
+  },
+  {
+    "content": "Deploy to GitHub",
+    "status": "in_progress",
+    "activeForm": "Deploying to GitHub"
+  }
+]
